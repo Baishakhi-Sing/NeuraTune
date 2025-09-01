@@ -15,7 +15,7 @@ An AI-powered system that detects emotions from facial expressions and recommend
 
 ## ✨ Features  
 
-- 🧠 **Emotion Detection** → Detects emotions (*happy, sad, angry, surprised, neutral, etc.*) from faces.  
+- 🧠 **Emotion Detection** → Detects emotions (*happy, sad, angry, surprised, neutral,Fear,Disgust*) from faces.  
 - 🎵 **Music Recommendation** → Maps emotions to curated playlists/songs.  
 - ⚡ **Pre-Trained CNN Model** → Trained on **FER-2013 dataset**.  
 - 🖼️ **Modular Design** → Easy to extend with new datasets or APIs (Spotify, YouTube).  
@@ -70,6 +70,10 @@ NumPy, Pandas, Matplotlib → Data handling & visualization
 
 
 ## Authors
+
+Baishakhi Sing
+LinkedIn : [https://www.linkedin.com/in/baishakhi-sing-29a71a355]
+📧 Contact: [baishakhi.sing154@gmail.com]
 
 Srizoni Maity 
 LinkedIn : [https://www.linkedin.com/in/srizoni-maity-012235356]
